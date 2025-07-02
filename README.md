@@ -1,4 +1,4 @@
-# GeoLinker V2
+# GeoLinker Tutorial
 ====================================================
 
 [![IoT](https://img.shields.io/badge/IoT-00D4AA?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://circuitdigest.com/internet-of-things-iot-projects) 
